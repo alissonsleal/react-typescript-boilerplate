@@ -1,4 +1,4 @@
-# Typescript React Boiler Plate
+# React Typescript Boiler Plate
 
 I created this boilerplate to increase my productivity when creating a typescript react app.
 
