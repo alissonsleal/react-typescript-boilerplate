@@ -1,4 +1,4 @@
-# React Typescript Boiler Plate
+# React Typescript Boilerplate
 
 I created this boilerplate to increase my productivity when creating a typescript react app.
 
@@ -22,3 +22,17 @@ I'm using the Airbnb default lint option.
 - [x] Prettier 2.1.2
 - [x] Eslint-config-prettier 6.12.0
 - [x] Eslint-config-airbnb 18.2.0
+
+## How to use
+
+Clone this repo using `git clone https://github.com/Alissonsleal/react-typescript-boilerplate.git <YOUR_PROJECT_NAME>`
+
+Go into your project directory `cd <YOUR_PROJECT_NAME>`
+
+Remove .git to clean the git repo `rm -rf .git`
+
+Change the name of your project inside `package.json`
+
+Install dependencies with `yarn` or `npm install`
+
+Run your React App with `yarn start` or `npm run start`
