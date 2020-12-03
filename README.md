@@ -29,10 +29,10 @@ Clone this repo using `git clone https://github.com/Alissonsleal/react-typescrip
 
 Go into your project directory `cd <YOUR_PROJECT_NAME>`
 
-Remove .git to clean the git repo `rm -rf .git`
-
-Change the name of your project inside `package.json`
+Remove .git to clean the git repo with `rm -rf .git` in terminal, or `rm .git -r -fo` in powershell
 
 Install dependencies with `yarn` or `npm install`
+
+Change the name of your project inside `package.json`
 
 Run your React App with `yarn start` or `npm run start`
